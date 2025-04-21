@@ -23,7 +23,6 @@
                         <ul class="dropdown-menu">
                             <li><a class="dropdown-item" href="/category/pria">Pria</a></li>
                             <li><a class="dropdown-item" href="/category/wanita">Wanita</a></li>
-                            <li><hr class="dropdown-divider"></li>
                             <li><a class="dropdown-item" href="/category/anak-anak">Anak-anak</a></li>
                         </ul>
                     </li>
